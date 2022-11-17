@@ -1,7 +1,6 @@
-# Sample Hardhat Project
+# mintNFT
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
+The minting of NFT is done by creating the Smart Contract of that NFT using Openzeppelin library to use ERC721 token. This NFT(Non - Fungible Token) project is build using Solidity programming and Hardhat.
 Try running some of the following tasks:
 
 ```shell
